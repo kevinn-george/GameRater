@@ -12,7 +12,6 @@ package gamerater;
 public class Menu extends javax.swing.JFrame {
 
     LoginUser luser; // the login user details are obtained from the Login form
-
     /**
      * Creates new form Menu
      */
