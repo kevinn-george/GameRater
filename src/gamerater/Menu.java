@@ -15,6 +15,7 @@ public class Menu extends javax.swing.JFrame {
     /**
      * Creates new form Menu
      */
+    
     public Menu(LoginUser user) {
         initComponents();
         this.setLocationRelativeTo(null); // center form in screen 
